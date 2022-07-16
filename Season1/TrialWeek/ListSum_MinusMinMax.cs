@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TeddysWeeklyChallenges.Season1.TrialWeek
 {
-    internal class ListSum_MinusMinMax
+    public class ListSum_MinusMinMax
     {
         [Benchmark]
         public void Benchmark_TIMTWO_One()
