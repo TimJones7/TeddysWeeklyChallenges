@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeddysWeeklyChallenges.Season1.Week1
+namespace TeddysWeeklyChallenges.Season1.TrialWeek
 {
     internal class ListSum_MinusMinMax
     {
